@@ -1,1 +1,1 @@
-QUERIES ARE FOR USE IN BIGQUERY AND ARE EXAMPLES PULLED FROM THE GOOGLE DATA ANALYTICS COURSE ON COURSERA
+Queries for use in BigQuery- examples from coursera's GOOGLE data analytics course
